@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "322081853380",
+    "firebase_url": "https://everismobiletechnologies.firebaseio.com",
+    "project_id": "everismobiletechnologies",
+    "storage_bucket": "everismobiletechnologies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322081853380:android:2e296a2708c080ce5ede91",
+        "android_client_info": {
+          "package_name": "com.everis.evandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322081853380-2c3jcert1usq2tqeq8jjqei5orpnmjnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everis.evandroid",
+            "certificate_hash": "2d3839c02f37f6527da2aebe725c8344f2f50fe5"
+          }
+        },
+        {
+          "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5srlp-TWVB1BiIPtDHZkebFp9Y0SDck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322081853380-1uqoekudqlq2o4t0liq7sadmq9b6u5pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "es.everismobiletechnologies.iosionic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322081853380:android:e6293bb27c0b41e15ede91",
+        "android_client_info": {
+          "package_name": "es.everismobiletechnologies.androidflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5srlp-TWVB1BiIPtDHZkebFp9Y0SDck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322081853380-1uqoekudqlq2o4t0liq7sadmq9b6u5pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "es.everismobiletechnologies.iosionic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322081853380:android:2dfe367ed3b9dbe35ede91",
+        "android_client_info": {
+          "package_name": "es.everismobiletechnologies.androidionic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5srlp-TWVB1BiIPtDHZkebFp9Y0SDck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322081853380-1uqoekudqlq2o4t0liq7sadmq9b6u5pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "es.everismobiletechnologies.iosionic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322081853380:android:62ff6d1274f73abb5ede91",
+        "android_client_info": {
+          "package_name": "es.everismobiletechnologies.androidnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5srlp-TWVB1BiIPtDHZkebFp9Y0SDck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322081853380-1uqoekudqlq2o4t0liq7sadmq9b6u5pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "es.everismobiletechnologies.iosionic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322081853380:android:f7cf5e24610a36415ede91",
+        "android_client_info": {
+          "package_name": "es.everismobiletechnologies.androidreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5srlp-TWVB1BiIPtDHZkebFp9Y0SDck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322081853380-csvl6r17a9bh52qo6mf6rvcg7ahm3c3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322081853380-1uqoekudqlq2o4t0liq7sadmq9b6u5pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "es.everismobiletechnologies.iosionic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
